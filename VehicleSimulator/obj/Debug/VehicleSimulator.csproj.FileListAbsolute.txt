@@ -1,0 +1,6 @@
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\bin\Debug\VehicleSimulator.exe.config
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\bin\Debug\VehicleSimulator.exe
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\bin\Debug\VehicleSimulator.pdb
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\obj\Debug\VehicleSimulator.csprojResolveAssemblyReference.cache
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\obj\Debug\VehicleSimulator.exe
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\VehicleSimulator\VehicleSimulator\obj\Debug\VehicleSimulator.pdb
